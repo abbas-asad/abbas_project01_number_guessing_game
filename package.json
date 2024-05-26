@@ -1,0 +1,19 @@
+{
+  "name": "abbas_project01_number_guessing_game",
+  "version": "1.0.0",
+  "description": "A number guessing game built with TypeScript and Node.js, using inquirer for user interaction.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abbas asad",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  }
+}
